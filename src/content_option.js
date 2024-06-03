@@ -1,7 +1,7 @@
 const logotext = "JOHN";
 const meta = {
     title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m John Doe data scientist _ Full stack devloper, currently working in Berlin",
 };
 
 const introdata = {
@@ -41,11 +41,11 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Django",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "JavaScript",
         value: 80,
     },
     {
@@ -53,7 +53,7 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "JQuery",
         value: 85,
     },
 ];
